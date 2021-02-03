@@ -7,7 +7,7 @@ class Dog extends Pet{
         this.sound = 'Au au!🐕‍🦺🐕‍🦺';
 
     }
-    // pavyzdys
+    // PAVYZDYS TAIKANT VIENAM OBJEKTUI
     // voice () {
     //     console.log(`${this.name} says ${this.sound}`);
     // }

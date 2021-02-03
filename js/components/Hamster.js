@@ -8,7 +8,7 @@ class Hamster extends Pet{
         this.caneatTillDeath = true;
 
     }
-
+    //ZIURETI DOG JS
     // voice () {
     //     console.log(`${this.name} says ${this.sound}`);
     // }

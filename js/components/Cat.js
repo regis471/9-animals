@@ -7,7 +7,7 @@ class Cat extends Pet{
         this.sound = 'Miau miau!🐱‍👓🐱‍👓';
 
     }
-
+    // ZIURETI DOG JS
     // voice () {
     //     console.log(`${this.name} says ${this.sound}`);
     // }
